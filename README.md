@@ -36,8 +36,7 @@ To use this application  :
 - after recording faces, run the `training.py` to train the recognizer and the output will be a file named `training.xml`
 - run the `scan.py` to implement the `training.xml` and enjoy a simple live face recognition on your PC
 
-## Contributing
-I know my codes are messy and ineffective, so I am always happy to accept your pull request to fix my messy code.
+
 
 
 Please make sure to update tests as appropriate.
